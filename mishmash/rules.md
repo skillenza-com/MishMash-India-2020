@@ -1,6 +1,6 @@
 # Hackathon Rules
 
-These are standard competition rules used at Hackathons.If you have a suggestion for these rules or a question about them, please email us at [pb@skillenza.com](mailto:pb@skillenza.com).
+These are standard competition rules used at Hackathons.If you have a suggestion for these rules or a question about them, please email us at [azhar@skillenza.com](mailto:azhar@skillenza.com).
 
 
 ## The spirit of the competition
