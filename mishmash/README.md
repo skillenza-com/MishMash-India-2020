@@ -1,6 +1,8 @@
 # MishMash India 2020
 
-This initiative is focused on creating a substantial shift in developer relations and bringing like-minded developers from around the globe. The program revolves around building community, evangelizing new technology and trends in the current scenario. We are looking for the creation of products that solve problems, as well as are inspiring, engaging, and entertaining. [MishMash India](https://skillenza.com/communities/mishmash)
+This initiative is focused on creating a substantial shift in developer relations and bringing like-minded developers PAN India. TThe MishMash hackathon is India’s largest online diversity hackathon. The focus will be to give you, regardless of your background, gender, sexual orientation, ethnicity, age, skill sets and viewpoints, an opportunity to showcase your talent. The hackathon will be an inclusive and diverse space where we hope to see fresh perspectives and new ideas, especially those coming from people who hitherto may not have had the chance to be heard. 
+
+Developers across India [MishMash India](https://skillenza.com/communities/mishmash)
 
 
 ## TL;DR How to submit:
@@ -23,7 +25,7 @@ All the Project Submissions have to done by making an issue in this repository. 
 4. Only a **single issue** has to be made for each individual project, Multiple submissions will be termed as INVALID SUBMISSION.
 
 ## Prizes Enrolled for
-One has to mark appropriate name in order to a submission valid for the Hacknight x.0 Hackathon. Each submissions should have at least 2 labels according to the Project Field & Track.
+One has to mark appropriate name in order to a submission. Each submissions should have at least 2 labels according to the Project Field & Track.
 
 ## Project Field:
 Choose from
@@ -41,5 +43,5 @@ Choose from
 #### `Azure Machine Learning`
 #### `Azure Databricks`
 
-#### In case of any confusion, you can ask your nearest Skillenza Staff members to help you out with the same.
+#### In case of any confusion, you can send your query to support@skillenza.com help you out with the same.
 
