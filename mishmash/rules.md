@@ -10,7 +10,7 @@ Remember that hackathons are like marathons. Some people compete but most people
 ## The rules of the competition
 
 1. There is a maximum team size of 4 people. As a participant, you should make sure to check how many prizes are available per team. There is usually a limited number of prizes for each challenge. So if you form a large team and win a challenge, there might not be enough prizes for everyone on your team.
-2. Teams should be made up exclusively of people who are not organisers, volunteers, judges, sponsors, or in any other privileged position at the event.
+2. Teams should be made up exclusively of people who are not organisers, volunteers, judges, sponsors, or in any other privileged position of the program.
 4. Teams can of course gain advice and support from organisers, volunteers, sponsors, and others over the common online platform.
 5. All work on a project should be done during the online hackathon phase.
 6. Teams can use an idea they had before the event.
