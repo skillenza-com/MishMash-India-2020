@@ -11,7 +11,7 @@ assignees: suryaskillenza
 TEAM NAME - PROJECT NAME - THEME NAME
 
 ## ℹ️ Project information
-_Please complete all applicable._
+
 
  1. You can select any one theme from - XR / Mobility / FinTech/ Deep Tech or Machine Learning / Ed-Tech / Social Impact
  
