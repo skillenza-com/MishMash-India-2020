@@ -28,6 +28,11 @@ One has to mark appropriate name in order to a submission. Each submissions shou
 
 ## Project Field:
 Choose from
+#### `Mobility`
+#### `AR/VR/XR`
+#### `Deep Tech`
+#### `Ed Tech`
+#### `Fin Tech`
 #### `App Services`
 #### `PlayFeb`
 #### `Azure Functions`
@@ -41,6 +46,7 @@ Choose from
 #### `Azure Bot Services`
 #### `Azure Machine Learning`
 #### `Azure Databricks`
+
 
 #### In case of any confusion, you can send your query to support@skillenza.com help you out with the same.
 
