@@ -22,7 +22,7 @@ Remember that hackathons are like marathons. Some people compete but most people
 
 ## Judging Criteria
 
-Judges will weigh the criteria according to their discretion. The first round of evaluation will be done online. Based on this evaluation, shortlisted teams will be invited for Demo/Presntation over Zoom call scheduled on 4th April, 2020. Teams will be judged on following criteria:
+The first round of evaluation will be done online. Based on this evaluation, shortlisted teams will be invited for Demo/Presntation over Zoom call scheduled on 4th April, 2020. Teams will be judged on following criteria:
 
 For Teams working on Open Innovation Projects with themes around - Deep Tech / FinTech / EdTech / Mobility:
 - __Innovation__ 
