@@ -9,7 +9,7 @@ Developers across India [MishMash India](https://skillenza.com/communities/mishm
 - Read the [Rules](rules.md).
 - Upload your code somewhere on the internet. This can be to a GitHub repository, a zip file on cloud storage, anywhere: as long as it is accessible by the judges. You will provide a link to this in the next steps.
 - Login to your GitHub account. 
-- Start a [new submisison issue](https://github.com/skillenza-com/Skillenza-Hackathons/issues/new/choose).
+- Start a [new submisison issue](https://github.com/skillenza-com/MishMash-India-2020/issues).
 - Complete the template. 
 - Submit the issue (one per team). 
 - Success 🎉
