@@ -8,7 +8,7 @@ assignees: suryaskillenza
 ---
 
 **Before you start, please follow this format for your issue title**:
-TEAM NAME - PROJECT NAME
+TEAM NAME - PROJECT NAME - THEME NAME
 
 ## ℹ️ Project information
 _Please complete all applicable._
