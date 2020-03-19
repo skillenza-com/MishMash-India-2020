@@ -25,12 +25,16 @@ All the Project Submissions have to done by making an issue in this repository. 
 
 
 ## Project Field:
-Choose from
+Choose from the below themes
 #### `Mobility`
 #### `AR/VR/XR`
 #### `Deep Tech`
 #### `Ed Tech`
 #### `Fin Tech`
+#### `Social Impact`
+
+## Azure Services:
+Choose from the below services
 #### `App Services`
 #### `PlayFeb`
 #### `Azure Functions`
