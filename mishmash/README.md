@@ -29,7 +29,7 @@ One has to mark appropriate name in order to a submission. Each submissions shou
 
 ## Project Field:
 Choose from
-#### `App Service`
+#### `App Services`
 #### `PlayFeb`
 #### `Azure Functions`
 #### `Web Apps`
