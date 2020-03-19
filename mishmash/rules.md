@@ -24,13 +24,13 @@ Remember that hackathons are like marathons. Some people compete but most people
 
 The first round of evaluation will be done online. Based on this evaluation, shortlisted teams will be invited for Demo/Presntation over Zoom call scheduled on 4th April, 2020. Teams will be judged on following criteria:
 
-For Teams working on Open Innovation Projects with themes around - Deep Tech / FinTech / EdTech / Mobility:
+For Teams working on Open Innovation Projects with themes around - FinTech / EdTech / Mobility:
 - __Innovation__ 
 - __Implementation of Azure Services__ 
 - __Completion:__ Does the hack work? Did the team achieve everything they wanted?
 - __Business Impact__ 
 
-For Teams working on any of the problem statements by Unilever will be Judged based on the following:
+For Teams working on any of the problem statements by Unilever around Deep Tech / Machine Learning Theme will be Judged based on the following:
 - __Presentation__
 - __Accuracy/MAPE of results - In Model & Hold out__
 - __Explanation of Logic used to get results__
