@@ -23,8 +23,6 @@ All the Project Submissions have to done by making an issue in this repository. 
 3. Specify appropriate project field from the checklist, please delete anything that does not matter to you.
 4. Only a **single issue** has to be made for each individual project, Multiple submissions will be termed as INVALID SUBMISSION.
 
-## Prizes Enrolled for
-One has to mark appropriate name in order to a submission. Each submissions should have at least 2 labels according to the Project Field & Track.
 
 ## Project Field:
 Choose from
