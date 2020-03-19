@@ -14,7 +14,7 @@ Developers across India [MishMash India](https://skillenza.com/communities/mishm
 - Success 🎉
 
 ## Rules
-Kindly go through the [Rules](rules.md).
+Kindly go through the [Rules](https://github.com/skillenza-com/MishMash-India-2020/blob/master/mishmash/rules.md).
 
 ## Submissions
 All the Project Submissions have to done by making an issue in this repository. The guidelines to followed for the same have been mentioned below:
