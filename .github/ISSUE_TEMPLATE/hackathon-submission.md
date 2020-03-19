@@ -14,7 +14,7 @@ TEAM NAME - PROJECT NAME
 _Please complete all applicable._
 
 - **Theme**: _[You can select any one theme from - XR/Mobility/FinTech/Deep Tech or Machine Learning/Ed-Tech/Social Impact]
-Themes:- Mobility, FinTech and Ed-Tech are Open Innovation Themes
+- **Themes:- Mobility, FinTech and Ed-Tech are Open Innovation Themes
 Theme:- XR has 3 sub-categories that you can choose from:- Epidemic, Urban, Remake
 Theme:- Deep Tech or Machine Learning is sponsored by UNILEVER and has 3 Problem Statements. If you pick this theme, you need to declare which problem statement you are going to work on.
 Theme:- Social Impact has only 1 Problem Statement - So, if you pick this theme you just need to select this Theme and say you will work on the Problem Statement in the Idea Brief Field._
