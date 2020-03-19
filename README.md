@@ -1,5 +1,5 @@
 # MishMash-India-2020
-This initiative is focused on creating a substantial shift in developer relations and bringing like-minded developers PAN India. TThe MishMash hackathon is India’s largest online diversity hackathon. The focus will be to give you, regardless of your background, gender, sexual orientation, ethnicity, age, skill sets and viewpoints, an opportunity to showcase your talent. The hackathon will be an inclusive and diverse space where we hope to see fresh perspectives and new ideas, especially those coming from people who hitherto may not have had the chance to be heard. 
+This initiative is focused on creating a substantial shift in developer relations and bringing like-minded developers PAN India. The MishMash hackathon is India’s largest online diversity hackathon. The focus will be to give you, regardless of your background, gender, sexual orientation, ethnicity, age, skill sets and viewpoints, an opportunity to showcase your talent. The hackathon will be an inclusive and diverse space where we hope to see fresh perspectives and new ideas, especially those coming from people who hitherto may not have had the chance to be heard. 
 
 Developers across India [MishMash India](https://skillenza.com/communities/mishmash)
 
