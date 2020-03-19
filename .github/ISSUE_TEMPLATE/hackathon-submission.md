@@ -2,7 +2,7 @@
 name: 'Hackathon Submission '
 about: 'Hackathon Project Submission '
 title: TEAM NAME - PROJECT NAME - THEME
-labels: MishMash
+labels: ''
 assignees: suryaskillenza
 
 ---
@@ -13,11 +13,14 @@ TEAM NAME - PROJECT NAME - THEME NAME
 ## ℹ️ Project information
 _Please complete all applicable._
 
-- **Theme**: _[You can select any one theme from - XR/Mobility/FinTech/Deep Tech or Machine Learning/Ed-Tech/Social Impact]
- - **Themes**:- _Mobility, FinTech and Ed-Tech are Open Innovation Themes_
-- **Theme**:- _XR has 3 sub-categories that you can choose from:- Epidemic, Urban, Remake_
-- **Theme**:- _Deep Tech or Machine Learning is sponsored by UNILEVER and has 3 Problem Statements. If you pick this theme, you need to declare which problem statement you are going to work on_
+ **Note**: You can select any one theme from - XR/Mobility/FinTech/Deep Tech or Machine Learning/Ed-Tech/Social Impact
+
+ 1. **Themes**:- _Mobility, FinTech and Ed-Tech are Open Innovation Themes_
+ 2. **Theme**:- _XR has 3 sub-categories that you can choose from:- Epidemic, Urban, Remake_
+ 3. **Theme**:- _Deep Tech or Machine Learning is sponsored by UNILEVER and has 3 Problem Statements. If you pick this theme, you need to declare which problem statement you are going to work on_
 - **Theme**:- _Social Impact has only 1 Problem Statement - So, if you pick this theme you just need to select this Theme and say you will work on the Problem Statement in the Idea Brief Field_
+
+
 - **Project Name**:
 - **Short Project Description**: _One line crisp description of your project_
 - **Team Name**:
