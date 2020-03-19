@@ -12,7 +12,7 @@ Remember that hackathons are like marathons. Some people compete but most people
 1. Permissible team size for MishMash hackathon is 1 to 4 Members.
 2. Teams should be made up exclusively of people who are not organisers, volunteers, judges, sponsors, or in any other privileged position of the program.
 3. Teams can of course gain advice and support from organisers, volunteers, sponsors, and others over the common online platform moderated by Skillenza Team.
-4. All work on your project should be done during the online hackathon phase. Adding new features to existing projects is allowed.
+4. Any project should be built during the Online Hackathon Phase only. However, Adding new features to existing projects and improvising on it is allowed.
 5. Teams can use libraries, frameworks, or open-source code in their projects. Working on a project before the event and open-sourcing it for the sole purpose of using the code during the event is against the spirit of the rules and is not allowed.
 6. Teams must submit their projects by 31st March, 11:55 PM IST over GitHub and Skillenza Platform. Any projects being submitted after the deadline will not be accepted. 
 7. Projects that violate the Code of Conduct will be disqualified and can no longer be a part of MishMash Hackathon. Please refer to the [Code of Conduct](https://skillenza.com/challenge/mishmash-hackathon-bangalore) tab over Skillenza Platform
