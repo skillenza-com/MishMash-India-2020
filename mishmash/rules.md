@@ -15,7 +15,7 @@ Remember that hackathons are like marathons. Some people compete but most people
 4. All work on your project should be done during the online hackathon phase. Adding new features to existing projects is allowed.
 5. Teams can use libraries, frameworks, or open-source code in their projects. Working on a project before the event and open-sourcing it for the sole purpose of using the code during the event is against the spirit of the rules and is not allowed.
 6. Teams must submit their projects by 31st March, 11:55 PM IST over GitHub and Skillenza Platform. Any projects being submitted after the deadline will not be accepted. 
-7. Projects that violate the Code of Conduct will be disqualified and can no longer be a part of MishMash Hackathon. Please refer to the [Code of Conduct] (https://skillenza.com/challenge/mishmash-hackathon-bangalore) tab over Skillenza Platform
+7. Projects that violate the Code of Conduct will be disqualified and can no longer be a part of MishMash Hackathon. Please refer to the [Code of Conduct](https://skillenza.com/challenge/mishmash-hackathon-bangalore) tab over Skillenza Platform
 8. Teams can be disqualified from the competition at the organisers' discretion. Reasons might include but are not limited to breaking the Competition Rules, breaking the Code of Conduct, or other unsporting behaviour.
 9. Being an Open Source Hackathon, each and every project developed at MishMash should be open source having appropriate License Documents to avoid any unauthorised use of the same.
 
