@@ -2,7 +2,7 @@
 name: 'Hackathon Submission '
 about: 'Hackathon Project Submission '
 title: TEAM NAME - PROJECT NAME - THEME
-labels: ''
+labels: Mobility, AR/VR/XR, Ed Tech, Deep Tech, Fin Tech, Social Impact
 assignees: suryaskillenza
 
 ---
