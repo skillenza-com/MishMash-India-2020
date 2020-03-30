@@ -33,7 +33,7 @@ TEAM NAME - PROJECT NAME - THEME NAME
 
 7. **Repository Link(s):** _Provide us the link to your code. All judges must be able to access it._
 
-8. **Presentation Link:** Provide us the link to for your presenation. 
+8. **Presentation Link:** Provide us the link to for your presentation. 
 
 9. **Deep Tech - Problem Statement - 3:** If you have chosen to work on the problem statement - 3 then please submit both models based on the two datasets provided to you. 
 
