@@ -37,7 +37,7 @@ TEAM NAME - PROJECT NAME - THEME NAME
 
 9. **Deep Tech - Problem Statement - 3:** If you have chosen to work on the problem statement - 3 then please submit both models based on the two datasets provided to you. 
 
-10. **Deep Tech - Problem Statement - 3:** If you have chosen to work on the problem statement - 2 then please provide the reference  for your dataset. 
+10. **Deep Tech - Problem Statement - 2:** If you have chosen to work on the problem statement - 2 then please provide the reference  for your dataset. 
 
 11. **Azure Services Used-** Kindly mention the Azure Services used in your project. 
 
