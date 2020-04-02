@@ -31,17 +31,15 @@ TEAM NAME - PROJECT NAME - THEME NAME
 
 6. **Demo Link:** _(if any, this might contain a website/ mobile application link/ short video, etc.)_
 
-7. **Repository Link(s):** _Provide us the link to your code. All judges must be able to access it._
+7. **Presentation Link:** Provide us the link to for your power point presentation. 
 
-8. **Presentation Link:** Provide us the link to for your power point presentation. 
+8. **Deep Tech - Problem Statement - 3:** If you have chosen to work on the problem statement - 3 then please submit both models based on the two datasets provided to you. 
 
-9. **Deep Tech - Problem Statement - 3:** If you have chosen to work on the problem statement - 3 then please submit both models based on the two datasets provided to you. 
+9. **Deep Tech - Problem Statement - 2:** If you have chosen to work on the problem statement - 2 then please provide the reference  for your dataset. 
 
-10. **Deep Tech - Problem Statement - 2:** If you have chosen to work on the problem statement - 2 then please provide the reference  for your dataset. 
+10. **Azure Services Used-** Kindly mention the Azure Services you used, or intended to use but weren't able to because of the overusage of Azure platform. 
 
-11. **Azure Services Used-** Kindly mention the Azure Services used in your project. 
-
-
+11. **Repository Link(optional):** _Provide us the link to your code. Please note that this is optional. Share the code only if you wish to share.
 
 ## 🔥 Your Pitch
 _Kindly write a pitch for your project. Please do not use more than 500 words_
